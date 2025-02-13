@@ -1,0 +1,37 @@
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+
+# Build output
+/main
+/build
+/bin
+
+# Dependency directories
+vendor/
+Godeps/
+
+# Go modules
+go.mod
+go.sum
+
+# Environment variables
+.env
+
+# Logs and temp files
+*.log
+tmp/
+*.tmp
+
+# IDE and editor files
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+Thumbs.db
