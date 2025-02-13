@@ -14,9 +14,6 @@
 vendor/
 Godeps/
 
-# Go modules
-go.mod
-go.sum
 
 # Environment variables
 .env
